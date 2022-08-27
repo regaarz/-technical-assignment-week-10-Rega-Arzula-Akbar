@@ -3,7 +3,7 @@ import time
 import requests
 import RPi.GPIO as GPIO
 
-TOKEN = "BBFF-thUhhRPJojoHiUB78bozuZuPy2dKTv"  # Put your TOKEN here
+TOKEN = "BBFF-E8KIYhch3wb8OvkMLDiGbQWi7zIUzM"  # Put your TOKEN here
 DEVICE_LABEL = "week10"  # Put your device label here 
 VARIABLE_LABEL_1 = "temperatur"  # Put your first variable label here
 VARIABLE_LABEL_2 = "kelembapan"  # Put your second variable label here
